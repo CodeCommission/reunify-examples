@@ -1,6 +1,6 @@
 {
   "name": "omdb-movies-example",
-  "short_name": "omdb-movies-example",
+  "short_name": "omdb-movies",
   "start_url": "/?homescreen=1",
   "display": "standalone",
   "theme_color": "aliceblue",

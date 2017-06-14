@@ -7,6 +7,8 @@ export default class extends React.Component {
     const data = await res.json()
 
     return {
+      title: 'OMDB Star Trek Movies - Reunify',
+      name: 'OMDB Star Trek Movies - Reunify',
       movies: data.Search,
     }
   }
