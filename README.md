@@ -5,7 +5,9 @@
 ## Code examples
 
 * [Basic PWA](basic-pwa/README.md)
+* [Basic CSS](basic-css/README.md)
 
 ## Live examples
 
 * [Basic PWA](https://bsckquqf.cloud.dropstack.run)
+* [Basic CSS](https://fontrekp.cloud.dropstack.run)
