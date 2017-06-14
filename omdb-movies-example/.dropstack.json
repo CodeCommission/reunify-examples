@@ -1,0 +1,7 @@
+{
+  "variables": [],
+  "instances": 1,
+  "type": "npm",
+  "name": "kurpcopp",
+  "serviceUrl": "kurpcopp.cloud.dropstack.run"
+}

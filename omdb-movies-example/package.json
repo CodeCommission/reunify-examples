@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "version": "0.0.0",
+    "name": "omdb-movies-example",
+    "description": "My ReactJS Web-App",
+    "engines": {
+      "node": "^6"
+    },
+    "dependencies": {
+      "reunify": "latest"
+    },
+    "scripts": {
+      "dev" : "PORT=8080 reunify serve",
+      "start": "PORT=80 NODE_ENV=production reunify serve --silent"
+    }
+  }
