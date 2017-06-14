@@ -6,8 +6,10 @@
 
 * [Basic PWA](basic-pwa/README.md)
 * [Basic CSS](basic-css/README.md)
+* [Basic data fetching](basic-fetch-data/README.md)
 
 ## Live examples
 
 * [Basic PWA](https://bsckquqf.cloud.dropstack.run)
 * [Basic CSS](https://fontrekp.cloud.dropstack.run)
+* [Basic data fetching](https://xchgbsio.cloud.dropstack.run)

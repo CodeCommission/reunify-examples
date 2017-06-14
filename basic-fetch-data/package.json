@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "0.0.0",
-  "name": "basic-pwa",
+  "name": "basic-fetch-data",
   "description": "My ReactJS Web-App",
   "engines": {
     "node": "^6"
