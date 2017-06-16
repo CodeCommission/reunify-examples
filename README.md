@@ -1,6 +1,6 @@
 # Reunify examples
 
-> [Reunify](https://reunify.run) - A simple framework for server-rendered ReactJS progressive web applications.
+> Simplified creation of universal ReactJS progressive web applications.
 
 ## Code examples
 
