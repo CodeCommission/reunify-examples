@@ -2594,8 +2594,8 @@ resolve@^1.1.6:
     path-parse "^1.0.5"
 
 reunify@latest:
-  version "3.3.13"
-  resolved "https://registry.yarnpkg.com/reunify/-/reunify-3.3.13.tgz#48625fd35c589d7d231478a0e597786d8510d62f"
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/reunify/-/reunify-3.4.1.tgz#d7d792dddc3379777243ab9c8305cbc39b4848a2"
   dependencies:
     babel-cli "^6.22.2"
     babel-loader "^6.2.10"

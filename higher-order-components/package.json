@@ -10,7 +10,7 @@
     "reunify": "latest"
   },
   "scripts": {
-    "dev": "PORT=8080 reunify serve",
+    "dev": "PORT=8080 NODE_ENV=development reunify serve",
     "start": "PORT=80 NODE_ENV=production reunify serve --silent"
   }
 }

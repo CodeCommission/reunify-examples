@@ -21,3 +21,9 @@ export default class Index extends React.Component {
     )
   }
 }
+
+Index.getInitialProps = async (req, res) => {
+  return Promise.resolve({
+    foo: 'bar'
+  })
+}
