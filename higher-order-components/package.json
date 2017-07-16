@@ -2,7 +2,7 @@
   "private": true,
   "version": "0.0.0",
   "name": "higher-order-components",
-  "description": "My ReactJS Web-App",
+  "description": "Reunify HOC style example app",
   "engines": {
     "node": "^6"
   },
@@ -10,6 +10,10 @@
     "reunify": "latest"
   },
   "scripts": {
+    "export": "NODE_ENV=production reunify export",
+    "export:dev": "NODE_ENV=production reunify export -d",
+    "export:package": "NODE_ENV=production reunify export -p",
+    "export:package:dev": "NODE_ENV=production reunify export -p -d",
     "dev": "PORT=8080 NODE_ENV=development reunify serve",
     "start": "PORT=80 NODE_ENV=production reunify serve --silent"
   }

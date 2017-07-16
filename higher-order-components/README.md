@@ -11,6 +11,12 @@ npm install
 npm run dev
 ```
 
+## Export as SPA (without Server-Side-Rendering)
+
+```bash
+npm run export
+```
+
 ## Deploy it to the cloud with [DropStack](https://dropstack.run)
 
 ```bash

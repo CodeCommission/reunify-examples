@@ -1,6 +1,4 @@
 {
-  "variables": [],
-  "instances": 1,
   "type": "npm",
   "name": "xchgbsio",
   "serviceUrl": "xchgbsio.cloud.dropstack.run"
