@@ -14,6 +14,6 @@
 
 * [Basic PWA](https://bsckquqf.cloud.dropstack.run)
 * [Basic CSS](https://fontrekp.cloud.dropstack.run)
-* [Basic data fetching](https://xchgbsio.cloud.dropstack.run)
+* [Basic data fetching](https://ahzbafdc.cloud.dropstack.run)
 * [OMDB Star Trek movies](https://kurpcopp.cloud.dropstack.run)
 * [HOC-Style (JSON, GraphQL fetch)](https://reunify-hoc-examples.cloud.dropstack.run)

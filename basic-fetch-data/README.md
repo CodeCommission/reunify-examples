@@ -1,6 +1,6 @@
 # Basic data fetching
 
-> [Live example](https://xchgbsio.cloud.dropstack.run)
+> [Live example](https://ahzbafdc.cloud.dropstack.run)
 
 ## How to use locally
 
