@@ -22,10 +22,10 @@ export const RepoList = props => (
   </div>
 )
 
-RepoList.getInitialProps = async props => {
+RepoList.getInitialProps = async () => {
   const res = await fetch('https://api.github.com/users/codecommission/repos')
   const data = await res.json()
-  const repos = data.filter(x => x.name.indexOf('reunify') !== -1)
+  const repos = data && data.filter(x => x.name.indexOf('reunify') !== -1)
   return {repos}
 }
 
