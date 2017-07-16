@@ -24,7 +24,7 @@ export const TableWithData = compose(
 
 export const TableWithGraphQL = compose(
   withGraphQL({
-    token: 'f1b9899fe6f822eb75bf8cfe4bba85cda89f6cfc',
+    token: atob('ODNmNTZjNzcwYjRmMzFmODcyNDkzMTEzYWQxZTZmNThkNmI1NTZlNw=='),
     query: `query {
               viewer {
                 gists(first: 10) {
