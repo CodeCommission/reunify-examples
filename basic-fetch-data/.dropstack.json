@@ -1,5 +1,8 @@
 {
+  "variables": [],
+  "instances": 1,
+  "alias": "reunify-basic-fetch-data.cloud.dropstack.run",
   "type": "npm",
-  "name": "xchgbsio",
-  "serviceUrl": "xchgbsio.cloud.dropstack.run"
+  "name": "ahzbafdc",
+  "serviceUrl": "ahzbafdc.cloud.dropstack.run"
 }
