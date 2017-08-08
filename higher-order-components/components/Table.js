@@ -2,6 +2,7 @@ import React from 'react'
 import { compose } from 'ramda'
 import { withData } from '../lib/withData'
 import { withGraphQL } from '../lib/withGraphQL'
+import atob from 'atob'
 
 export const Table = props => (
   <table>

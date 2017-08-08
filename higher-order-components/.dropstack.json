@@ -1,8 +1,9 @@
 {
-  "variables": [],
+  "variables": "",
   "instances": 1,
   "alias": "reunify-hoc-examples.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "ljnvfkne",
   "serviceUrl": "ljnvfkne.cloud.dropstack.run"
 }

@@ -21,7 +21,7 @@ export default class RepoList extends React.PureComponent {
   render () {
     return (
       <div>
-        <h1>Reunify GitHub Repositories</h1>
+        <h1># Reunify GitHub Repositories</h1>
         <StyledList>
           {
             this.props.repos &&

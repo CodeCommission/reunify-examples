@@ -1,7 +1,9 @@
 {
-  "variables": [],
+  "variables": "",
   "instances": 1,
+  "alias": "reunify-basic-css.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "fontrekp",
   "serviceUrl": "fontrekp.cloud.dropstack.run"
 }

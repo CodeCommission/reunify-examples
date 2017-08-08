@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export default class extends React.Component {
   static async getInitialProps () {
-    const res = await fetch('http://www.omdbapi.com/?apikey=289ba303&s=Star%20Trek&type=movie')
+    const res = await fetch('http://www.omdbapi.com/?apikey=e2820cc7&s=Star%20Trek&type=movie')
     const data = await res.json()
 
     return {
@@ -26,6 +26,7 @@ export default class extends React.Component {
           </thead>
           <tbody>
             {
+              this.props.movies &&
               this.props.movies.map((movie, i) => (
                 <tr key={i}>
                   <MoviesTableColumn>{movie.Year}</MoviesTableColumn>

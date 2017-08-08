@@ -1,7 +1,9 @@
 {
-  "variables": [],
+  "variables": "",
   "instances": 1,
+  "alias": "reunify-basic-pwa.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "bsckquqf",
   "serviceUrl": "bsckquqf.cloud.dropstack.run"
 }

@@ -5,8 +5,7 @@ import styled from 'styled-components'
 import Navigation from '../components/Navigation'
 import {TableWithData, TableWithGraphQL} from '../components/Table'
 
-const Title = ({className, text}) => <h1 className={className}>{text}</h1>
-const StyledTitle = styled(Title)`
+const StyledTitle = styled.h1`
   color: black;
 `
 
@@ -14,7 +13,7 @@ export default class Index extends React.Component {
   render() {
     return (
       <div>
-        <StyledTitle text="HOC Styles" />
+        <StyledTitle>HOC Styles</StyledTitle>
         <TableWithData />
         <TableWithGraphQL />
       </div>

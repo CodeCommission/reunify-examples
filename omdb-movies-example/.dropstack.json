@@ -1,7 +1,9 @@
 {
-  "variables": [],
+  "variables": "",
   "instances": 1,
+  "alias": "reunify-omdb-movies.cloud.dropstack.run",
   "type": "npm",
+  "excludes": [],
   "name": "kurpcopp",
   "serviceUrl": "kurpcopp.cloud.dropstack.run"
 }
