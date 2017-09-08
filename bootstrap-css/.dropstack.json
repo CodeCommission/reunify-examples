@@ -1,0 +1,9 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "reunify-bootstrap-css.cloud.dropstack.run",
+  "type": "npm",
+  "excludes": [],
+  "name": "qhdofudy",
+  "serviceUrl": "qhdofudy.cloud.dropstack.run"
+}
