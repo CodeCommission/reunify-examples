@@ -1,8 +1,8 @@
 {
     "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
     "name": "basic-css",
-    "description": "My ReactJS Web-App",
+    "description": "Reunify basic CSS example",
     "engines": {
       "node": "^6"
     },

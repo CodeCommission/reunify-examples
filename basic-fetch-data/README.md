@@ -1,6 +1,6 @@
 # Basic data fetching
 
-> [Live example](https://ahzbafdc.cloud.dropstack.run)
+[Live example](https://reunify-fetch-data.cloud.dropstack.run)
 
 ## How to use locally
 

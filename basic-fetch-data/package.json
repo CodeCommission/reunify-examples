@@ -1,8 +1,8 @@
 {
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "basic-fetch-data",
-  "description": "Reunify basic fetch data example",
+  "description": "Reunify basic data fetching example",
   "engines": {
     "node": "^6"
   },

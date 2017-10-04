@@ -14,10 +14,10 @@
 
 ## Live examples
 
-* [Basic PWA](https://bsckquqf.cloud.dropstack.run)
-* [Basic CSS](https://fontrekp.cloud.dropstack.run)
+* [Basic PWA](https://reunify-pwa.cloud.dropstack.run)
+* [Basic CSS](https://reunify-css.cloud.dropstack.run)
 * [BootStrap CSS](https://reunify-bootstrap-css.cloud.dropstack.run)
-* [Basic data fetching](https://ahzbafdc.cloud.dropstack.run)
+* [Basic data fetching](https://reunify-fetch-data.cloud.dropstack.run)
 * [JSON Response](https://reunify-json-response.cloud.dropstack.run)
 * [OMDB Star Trek movies](https://kurpcopp.cloud.dropstack.run)
 * [HOC-Style (JSON, GraphQL fetch)](https://reunify-hoc-examples.cloud.dropstack.run)
