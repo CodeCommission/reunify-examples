@@ -1,6 +1,6 @@
 # Basic PWA
 
-> [Live example](https://bsckquqf.cloud.dropstack.run)
+> [Live example](https://basic-pwa.cloud.dropstack.run)
 
 ## How to use locally
 
