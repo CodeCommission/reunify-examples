@@ -1,6 +1,6 @@
 # Basic PWA
 
-> [Live example](https://basic-pwa.cloud.dropstack.run)
+> [Live example](https://reunify-pwa.cloud.dropstack.run)
 
 ## How to use locally
 
