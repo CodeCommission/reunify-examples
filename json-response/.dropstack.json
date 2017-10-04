@@ -1,0 +1,9 @@
+{
+  "variables": "",
+  "instances": 1,
+  "alias": "reunify-json-response.cloud.dropstack.run",
+  "type": "npm",
+  "excludes": [],
+  "name": "ayqndenp",
+  "serviceUrl": "ayqndenp.cloud.dropstack.run"
+}
